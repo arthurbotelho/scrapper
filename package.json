@@ -1,0 +1,17 @@
+{
+  "name": "jogo_do_bicho",
+  "version": "1.0.0",
+  "description": "WebScrapper to get Results from other days",
+  "main": "index.js",
+  "author": "Arthur Botelho <arthurbotelhocosta@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
