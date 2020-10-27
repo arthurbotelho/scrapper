@@ -1,4 +1,4 @@
 node_modules/
 
-results.json
-error.log
+./results.json
+./error.log
